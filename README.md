@@ -3,7 +3,7 @@ Cellmular Automata
 
 Code:(CA.cpp)[CA.cpp]
 
-Picture geneator:(picture.cpp)[picture.cpp]
+Picture geneator:[picture.cpp](picture.cpp)
 
 Using "svpng" library.
 

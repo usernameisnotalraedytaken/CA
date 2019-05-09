@@ -1,9 +1,9 @@
 # CA
 Cellmular Automata
 
-Code:CA.cpp
+Code:(CA.cpp)[CA.cpp]
 
-Picture geneator:picture.cpp
+Picture geneator:(picture.cpp)[picture.cpp]
 
 Using "svpng" library.
 

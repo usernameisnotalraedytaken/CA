@@ -1,7 +1,9 @@
 # CA
 Cellmular Automata
 
-Code:(CA.cpp)[CA.cpp]
+![](rgb.png)
+
+Code:[CA.cpp](CA.cpp)
 
 Picture geneator:[picture.cpp](picture.cpp)
 
